@@ -12,7 +12,7 @@ function App() {
       <Sidebar data="C'est une Nouvelle donnée"/>
      <Home/>
      <Footer logo="Lorem"/>
-    ggggggggggggggggg
+     Laisse le truc comme ça!
     </div>
   );
 }
